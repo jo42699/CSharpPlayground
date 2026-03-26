@@ -1,3 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// New stuff
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Joseph");
+Console.Write("Hello");
+Console.WriteLine(", Im a boy");
+Test.Run();
+// comments are cool
+// Im learning C#
