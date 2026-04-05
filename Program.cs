@@ -19,9 +19,7 @@ namespace MyApp
 
 
 
-
            // collecting data 
-
            Console.WriteLine("What is your name ");
            String name = Console.ReadLine();
 
